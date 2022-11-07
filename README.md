@@ -38,7 +38,7 @@ E[Step 4 : Perform EDA by visualizing the data] --> F[Step 5 : Train ML model us
     X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, statify = Y, random_state=2)
    ```
   
- <li><b><i>LOGISTIC REGRESSION MODEL</b></i> - This is a main model which we were talikng about. We chose "Logistic Regression Model out of all other models because we need a model which answers in only two ways either it is a Healthy Heart([1]) or it is not a healthy heart([0])."
+ <li><b><i>LOGISTIC REGRESSION MODEL</b></i> - This is a main model which we were talikng about. We chose "Logistic Regression Model out of all other models because we need a model which answers in only two ways either it is not a Healthy Heart([1]) or it is a healthy heart([0])."
 </ol>
 
     
