@@ -42,4 +42,4 @@ E[Step 4 : Perform EDA by visualizing the data] --> F[Step 5 : Train ML model us
 </ol>
 
     
-###  In this way we can predict the condition of person's heart whether it is heathy or not. The prediction can be done more accurately if used neural networks and huge dataset and deep learning .
+###  In this way we can predict the condition of person's heart whether it is healthy or not. The prediction can be done more accurately if used neural networks and huge dataset and deep learning .
