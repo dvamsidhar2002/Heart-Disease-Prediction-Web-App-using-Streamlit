@@ -10,7 +10,7 @@ import numpy as np
 import streamlit as st
 
 #loaded the machine learning model
-loaded_model = pickle.load(open('D:\Machine Learning with Python\Heart Disease Prediction\heart_disease_trained_model.sav','rb'))
+loaded_model = pickle.load(open('heart_disease_trained_model.sav','rb'))
 
 #creating a function for Prediction
 def heart_disease_prediction(input_data):
