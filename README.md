@@ -1,7 +1,10 @@
 # Heart-Disease-Prediction-System-
 This a ML program which predicts whether a person has a heart disease or not on the basis of the different parameters like cholestrol, age, sex etc.
 
-Dataset Link : https://tinyurl.com/5xdhhswy
+### Click here to visit the Web app
+ <a href="https://dvamsidhar2002-heart-di-heart-disease-prediction-web-app-fntmgg.streamlit.app/">
+    <img src="https://img.shields.io/badge/Heart Disease Predictor-0A0A0A?style=plastic&logo=HERE&logoColor=white" height=20></a>
+
 
 <h1 align='center'> WORKFLOW OF THE PROJECT</h1>
 
@@ -41,5 +44,6 @@ E[Step 4 : Perform EDA by visualizing the data] --> F[Step 5 : Train ML model us
  <li><b><i>LOGISTIC REGRESSION MODEL</b></i> - This is a main model which we were talikng about. We chose "Logistic Regression Model out of all other models because we need a model which answers in only two ways either it is not a Healthy Heart([1]) or it is a healthy heart([0])."
 </ol>
 
+Dataset Link : https://tinyurl.com/5xdhhswy
     
 ###  In this way we can predict the condition of person's heart whether it is healthy or not. The prediction can be done more accurately if used neural networks and huge dataset and deep learning .
