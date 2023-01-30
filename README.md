@@ -1,4 +1,10 @@
 # Heart-Disease-Prediction-Web-App-using-Streamlit
+
+![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
+![IDE](https://img.shields.io/badge/IDE-JupyterNotebook-orange.svg)
+![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Completed-darkgreen.svg)
+
 This a ML program which predicts whether a person has a heart disease or not on the basis of the different parameters like cholestrol, age, sex etc.
 
 ### Click here to visit the Web app
