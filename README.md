@@ -8,7 +8,7 @@
 This a ML program which predicts whether a person has a heart disease or not on the basis of the different parameters like cholestrol, age, sex etc.
 
 ### Click here to visit the Web app
- <a href="https://dvamsidhar2002-heart-di-heart-disease-prediction-web-app-fntmgg.streamlit.app/">
+ <a href="https://heart-disease-prediction-web-app-using-app-tmanyyshzdkj8kgb8on.streamlit.app/">
     <img src="https://img.shields.io/badge/Heart Disease Predictor-0A0A0A?style=plastic&logo=HERE&logoColor=white" height=20></a>
 
 
